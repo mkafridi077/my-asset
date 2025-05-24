@@ -1,0 +1,2 @@
+# my-asset
+none
